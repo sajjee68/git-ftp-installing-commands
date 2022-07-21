@@ -1,4 +1,4 @@
-# adding-command-git-ftp
+# installings-command-git-ftp
 the commands for adding git-ftp in your project
 
 # step one open gitBash in adminstrator mode
